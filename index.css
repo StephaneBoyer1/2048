@@ -1,0 +1,12 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: grey;
+  }
+
+#score{
+	font-size: 50px;
+	margin-left: 10px;
+	font-family: "Arial", sans-serif;
+	color: orange;
+}
